@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мои Книги</string>
+    <string name="item_text_value_name">Название</string>
+    <string name="books">ARRAYLIST_BOOKS</string>
+</resources>
